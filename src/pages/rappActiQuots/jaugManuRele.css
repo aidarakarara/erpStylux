@@ -1,0 +1,64 @@
+
+.tableJaugManuRele .dbl-border {
+    border-top: 3px double rgba(0, 0, 0, .5);
+    border-left: 3px double rgba(0, 0, 0, .5);
+    border-right: 3px double rgba(0, 0, 0, .5);  
+}
+.tableJaugManuRele .dbl-border2 {
+    border-top: 3px double rgba(0, 0, 0, .5);
+}
+.center{
+    text-align: center;
+}
+
+.tableJaugManuRele{
+    margin:auto;  
+  /*  border: 3px double #000000;  */
+}
+
+.tableJaugManuRele  .bord{ 
+    border: 1px double #000000;
+}
+
+.tableJaugManuRele .bordColor{
+    border: 1px double  #880404;
+}
+.tableJaugManuRele .bord1{
+    border-top: 2px double #880404;
+}
+
+
+.tableJaugManuRele .jaugManu th {
+   /* border: 1px solid black; */
+    height: 5px;
+    font-size: 13px;
+}
+
+.tableJaugManuRele .jaugManuRele input{
+    background-color: rgba(255, 255, 255, 0);
+    height: 73px;
+    border: none;
+    margin: 0px;
+}
+.tableJaugManuRele .jaugManu input
+{
+    border: none;
+    margin: 0px;
+    height: 31px;
+    background-color: rgba(255, 255, 255, 0);
+}
+.tableJaugManuRele input:active
+{
+    outline: none;
+}
+.tableJaugManuRele .color{
+  /*  background: linear-gradient(
+        60deg
+        ,  #f18aa2,#fa5050);*/
+            background: linear-gradient(
+    -60deg
+    ,  #F40076 , #342711);
+    }
+.tableJaugManuRele .titre{
+    color: #ffffff;
+}

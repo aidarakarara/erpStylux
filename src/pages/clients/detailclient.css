@@ -1,0 +1,38 @@
+/* -------------------------------HEAD TABS------------------ */
+.detail .nav-tabs .nav-link.active,
+.detail .nav-tabs .nav-item.show .nav-link {
+    color: #ffffff;
+    background-color: #5f5959;
+    border-bottom: 1px solid #ffffff;
+}
+
+.detail .nav-tabs {
+    border-bottom: 1px solid #000000;
+}
+
+.detail .nav-tabs .nav-link {
+    margin-bottom: -1px;
+    /* border: 1px solid transparent; */
+    border-top-left-radius: 0.25rem;
+    border-top-right-radius: 0.25rem;
+    margin-left: 2px;
+    margin-right: 2px;
+    border: 1px solid #000000;
+    border-bottom: none;
+    position: relative;
+}
+
+.detail .nav-tabs a {
+    color: #000000;
+    text-decoration: none;
+    background-color: #5f595959;
+    transition: all 300ms ease-in-out;
+}
+
+.detail .nav-tabs a:hover {
+    color: #ffffff;
+    text-decoration: none;
+    background-color: #5f595993;
+    padding: 8px 25px;
+}
+/* -------------------------------END HEAD TABS------------------ */

@@ -1,0 +1,50 @@
+/*.ficheCumuRechCartTpeMois {
+    max-width: 250px;
+    margin: auto;
+	background: #ffffff;
+    padding: 2em 2em 2em;
+	border-radius: 3px;
+	box-shadow: 2px 2px 10px rgba(0, 0, 0, .5)
+}*/
+
+.center{
+    text-align: center;
+}
+.tableCumuRechCartTpeMois{
+    margin:auto;   
+   /* border: 3px double #000000; */
+}
+
+.tableCumuRechCartTpeMois .bordColor{
+    border: 1px double  #f0aaa9;
+}
+.tableCumuRechCartTpeMois .bord1{
+    border-top: 2px double  #f0aaa9;
+}
+
+.tableCumuRechCartTpeMois .cumuRechCart th {
+/*    border: 1px solid black; */
+    height: 5px;
+    font-size: 13px;
+}
+.tableCumuRechCartTpeMois .cumuRechCart input
+{
+    border: none;
+    margin: 0px;
+    height: 31px;
+    background-color: rgba(255, 255, 255, 0);
+}
+.tableCumuRechCartTpeMois input:active
+{
+    outline: none;
+}
+
+
+.tableCumuRechCartTpeMois .color{
+    background-image: linear-gradient(
+        60deg
+       ,#2531da , #f0aaa9);      
+}
+.tableCumuRechCartTpeMois .titre{
+    color: #ffffff;
+}

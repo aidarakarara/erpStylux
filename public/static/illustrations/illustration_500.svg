@@ -1,0 +1,29 @@
+<svg width="480" height="360" xmlns="http://www.w3.org/2000/svg" fill="none">
+    <defs>
+     <filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="277.611" width="394.621" y="49" x="51" id="filter0_d">
+      <feGaussianBlur stdDeviation="6"/>
+     </filter>
+     <linearGradient y2="0.07236" x2="1.0529" y1="1.17787" x1="0.68502" id="paint0_linear">
+      <stop stop-color="#00AB55"/>
+      <stop stop-opacity="0.01" stop-color="#00AB55" offset="1"/>
+     </linearGradient>
+     <filter id="svg_3_blur">
+      <feGaussianBlur stdDeviation="0.1" in="SourceGraphic"/>
+     </filter>
+     <filter height="200%" width="200%" y="-50%" x="-50%" id="svg_4_blur">
+      <feGaussianBlur stdDeviation="0.4" in="SourceGraphic"/>
+     </filter>
+    </defs>
+    <g>
+     <title>Layer 1</title>
+     <g id="Name=404, Shape=-">
+      <g opacity="0.2" id="ð¥­illustrations">
+       <path fill="url(#paint0_linear)" d="m0,198.781c0,41.457 14.9454,79.235 39.539,107.785c28.2144,32.765 69.128,53.365 114.734,53.434c19.931,0.029 38.989,-3.887 56.495,-11.036c9.051,-3.699 19.182,-3.274 27.948,1.107c10.283,5.133 21.798,8.011 33.957,8.011c5.023,0 9.942,-0.495 14.7,-1.434c13.581,-2.67 25.94,-8.99 36.089,-17.94c6.379,-5.627 14.548,-8.456 22.898,-8.446l0.142,0c27.589,0 53.215,-8.732 74.492,-23.696c19.021,-13.36 34.554,-31.696 44.904,-53.225c9.022,-18.76 14.102,-39.953 14.102,-62.383c0,-76.931 -59.774,-139.3046 -133.498,-139.3046c-7.516,0 -14.88,0.6624 -22.063,1.8984c-19.021,-32.1317 -53.084,-53.5518 -91.941,-53.5518c-16.405,0 -31.958,3.81769 -45.879,10.6612c-13.24,6.4871 -25.011,15.7051 -34.641,26.9388c-32.697,0.544 -62.93,11.6899 -87.675,30.2914c-38.9516,29.2638 -64.303,76.9906 -64.303,130.8896z" clip-rule="evenodd" fill-rule="evenodd" id="background"/>
+      </g>
+      <g filter="url(#filter0_d)" id="#"/>
+     </g>
+     <text filter="url(#svg_3_blur)" stroke-width="0" transform="matrix(11.0004 0 0 5.51013 -997.495 -968.244)" xml:space="preserve" text-anchor="start" font-family="'Roboto Mono'" font-size="24" id="svg_3" y="225.43802" x="95.00638" fill="url(#paint0_linear)">5</text>
+     <text filter="url(#svg_4_blur)" transform="matrix(9.52925 0 0 9.00243 -2233.38 -1406.49)" xml:space="preserve" text-anchor="start" font-family="'Roboto Mono'" font-size="24" id="svg_4" y="188" x="255" stroke-width="0" fill="url(#paint0_linear)">o</text>
+     <text transform="matrix(9.52925 0 0 9.00243 -2233.38 -1406.49)" xml:space="preserve" text-anchor="start" font-family="'Roboto Mono'" font-size="24" id="svg_5" y="188.33324" x="268.22245" stroke-width="0" fill="url(#paint0_linear)">o</text>
+    </g>
+   </svg>

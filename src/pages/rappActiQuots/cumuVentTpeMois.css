@@ -1,0 +1,55 @@
+/*.ficheCumuVentTpeMois {
+    max-width: 250px;
+    margin: auto;
+	background: #ffffff;
+    padding: 2em 2em 2em;
+	border-radius: 3px;
+	box-shadow: 2px 2px 10px rgba(0, 0, 0, .5)
+}
+*/
+.center {
+  text-align: center;
+}
+.tableCumuVentTpeMois {
+  margin: auto;
+  /*  border: 3px double #000000; */
+}
+/*.tableCumuVentTpeMois .bord{
+    border-top: 3px double #000000;
+    border-bottom: 3px double #000000 ;
+} */
+.tableCumuVentTpeMois .bordColor {
+  border: 1px double rgb(217, 245, 61);
+}
+.tableCumuVentTpeMois .bord1 {
+  border-top: 2px double rgb(217, 245, 61);
+}
+
+.tableCumuVentTpeMois .cumuVentTpe th {
+  /*   border: 1px solid black; */
+  height: 5px;
+  font-size: 13px;
+}
+.tableCumuVentTpeMois .bord {
+  border-top: 3px solid black;
+}
+
+.tableCumuVentTpeMois .cumuVentTpe input {
+  border: none;
+  margin: 0px;
+  height: 31px;
+  background-color: rgba(255, 255, 255, 0);
+}
+.tableCumuVentTpeMois input:active {
+  outline: none;
+}
+
+.tableCumuVentTpeMois .color {
+  background-image: linear-gradient(60deg,  #72044d, #f83b83);
+  /*  background-image: linear-gradient(
+        60deg
+        , rgb(39, 27, 199),rgb(89, 61, 245)  , rgb(51, 82, 184)); */
+}
+.tableCumuVentTpeMois .titre {
+  color: #ffffff;
+}

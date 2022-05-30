@@ -1,0 +1,9 @@
+.clients
+{
+    max-width: 1000px;
+    margin: auto;
+}
+.clients td, .caisses th
+{
+    text-align: center;
+}

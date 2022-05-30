@@ -1,0 +1,56 @@
+@font-face {
+  font-family: "Dax";
+  src: url("./Dax.ttf");
+}
+
+@font-face {
+  font-family: "Nexa";
+  src: url("./Nexa-Font/NexaLight.otf");
+  src: url("./Nexa-Font/NexaRegular.otf"), url("./Nexa-Font/Nexa\ Light.otf"),
+    url("./Nexa-Font/NexaBook.otf"), url("./Nexa-Font/NexaLight.otf"),
+    url("./Nexa-Font/NexaHeavy.otf"),
+    url("./Nexa-Font/NexaBlack.otf") url("./Nexa-Font/NexaBold.otf"),
+    url("./Nexa-Font/NexaXBold.otf");
+  font-style: initial;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: bold !important;
+}
+.btn,
+.badge th,
+a {
+  font-size: 14px !important;
+  font-weight: bold !important;
+}
+th,
+td {
+  font-size: 14px;
+}
+select.form-control{
+  font-size: 14px !important;
+}
+.titre{
+  text-align: center;
+  text-transform: uppercase;
+  padding-top: 10px;
+  font-weight: bold !important;
+  
+}
+
+.titre-dash{
+  font-size: 20px;
+  padding: 10px;
+  text-transform: uppercase !important;
+  font-weight: bold !important;
+  padding-top: 12px;
+}
+
+* {
+  font-family: "Nexa" !important;
+}

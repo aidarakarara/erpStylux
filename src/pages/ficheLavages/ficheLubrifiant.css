@@ -1,0 +1,48 @@
+.ficheLubrifiant {
+    max-width: 1200px;
+    margin: auto;
+    padding: 0em 2em 2em;
+	background: #ffffff;
+	border-radius: 3px;
+	box-shadow: 1px 2px 10px rgba(0, 0, 0, .5);
+}
+.date{
+    width: 100px;
+    height: 30px;
+    margin-left: 5000%;
+    border: 1px solid blue;
+    box-sizing: border-box;
+}
+.center{
+    text-align: center;
+}
+.bordered{
+    border-style: none ;
+}
+.tableDate{
+    max-width: 400px;
+    margin-left: 54%;
+    margin-bottom: 3%;
+}
+
+.tableLubrifiant{
+    max-width: 880px;
+    
+}
+.tableBouteille{
+    max-width: 900px;
+    margin-left: 2%;
+}
+
+
+.tableLubrifiant input{
+    border: none;
+    margin: 0px;
+    height: 35px;
+    background-color: rgba(255, 255, 255, 0);
+
+} 
+.tableLubrifiant input:active
+{
+    outline: none;
+}

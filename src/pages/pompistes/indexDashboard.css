@@ -1,0 +1,78 @@
+.indexDashbord1 .titre1{
+    display: grid;
+    margin-top: 5px;
+    font-size: 30px;
+    background: #ffffff;
+    height: 580px;
+    margin-left: 2%;
+    padding: 1em 2em 1em 2em;
+    border-radius: 10px;
+    box-shadow: 2px 2px 15px rgba(6, 36, 173, 0.5)
+  /*  box-shadow: 2px 2px 15px rgba(0, 0, 0, .5) */
+}
+.indexDashbord1  .chart1{
+    margin: 10%;
+    display: grid;
+    margin-top: 20px;
+    margin-Bottom: 15px;
+}
+/*.indexDashbord1 .entete{
+    font-size: 30;
+    background: "linear-gradient(60deg, #ffa726, #fb8c00)";
+    color: "white";
+    text-align: "center";   
+    border-radius: "10px";
+    margin: "auto";
+    width: "100%";
+    margin-bottom: "5px";
+    margin-left: "5%";
+    margin-top: "0px";
+    box-shadow: "0 4px 20px 0 rgb(0 0 0 / 14%), 0 7px 10px -5px rgb(255 152 0 / 40%)";
+}*/
+/*2em chart  */
+.indexDashbord2 .titre2{
+    display: grid;
+    margin-top: 50px;
+    font-size: 30px;
+    background: #ffffff;
+    height: 500px;
+    margin-left: 10%;
+    padding: 1em 2em 1em 2em;
+    border-radius: 10px;
+    box-shadow: 2px 2px 15px rgba(2, 165, 51, 0.5) 
+}
+.indexDashbord2 .chart2{
+    margin-left: 3%;
+    display: grid;
+    margin-top: 20px;
+    margin-Bottom: 15px;
+}
+/***********************lautre chart******************************/
+ 
+/**.indexDashbord .indexDashbord1 .container {
+    display: grid;
+   /* width: 450px;
+    height: 240px; */
+ /*   margin-top: -80px;
+    background: #ffffff;
+    margin-left: -1%;
+    padding: 1em 2em 1em 2em;
+    border-radius: 10px;
+    box-shadow: 2px 2px 15px rgba(0, 0, 0, .5) 
+ }*/
+
+ /*.indexDashbord .indexDashbord1 {
+    display: grid;
+    /*width: 510px;
+    height: 250px;*/
+   /* margin-top: 100px;
+    margin-left: 2%;
+    background: #ffffff;
+    padding: 1em 2em 1em 2em;
+    border-radius: 10px;
+    text-shadow: "Super"; 
+    box-shadow: 2px 2px 15px rgba(0, 0, 0, .5)
+ }
+
+*/
+

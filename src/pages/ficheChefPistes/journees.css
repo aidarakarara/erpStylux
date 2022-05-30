@@ -1,0 +1,20 @@
+.caisses h2 {
+  font-size: 30px;
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: 400;
+  text-align: center;
+  margin-bottom: 0px;
+}
+.caisses h2,
+.tableau thead {
+  background: -webkit-linear-gradient(left, #25c481, #25b7c4);
+  background: linear-gradient(to right, #25c481, #25b7c4);
+  color: #fff;
+  transition: all 1.5s linear;
+}
+.tableau tr:hover,
+.tableau tr:hover a {
+  background: linear-gradient(to right, #25b7c4,#25c481) ;
+  color: #fff !important;
+}

@@ -1,0 +1,40 @@
+.venteTpes table .td-input {
+  padding: 0px;
+  position: relative !important;
+  overflow: hidden;
+}
+.venteTpes table .td-input > span {
+  background-color: rgba(74, 77, 241, 0.473);
+  height: 10px;
+  width: 10px;
+  transform: rotate(45deg);
+  display: block;
+  position: absolute;
+  bottom: -5px !important;
+  left: -5px !important;
+}
+.venteTpes table .td-input > .btn.del-btn {
+  display: block;
+  position: absolute;
+  top: 0 !important;
+  right: 0 !important;
+}
+.venteTpes table,
+table td {
+  text-align: center;
+}
+
+.venteTpes table input,
+.select {
+  width: 100%;
+  border: none;
+  margin: 0px !important;
+  height: 40px;
+  text-align: center;
+  background-color: rgba(101, 110, 102, 0.014);
+}
+.venteTpes table input:focus,
+.select:focus {
+  outline: none;
+  box-shadow: none;
+}

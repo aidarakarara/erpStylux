@@ -1,0 +1,90 @@
+.gestionProduit {
+  max-width: 1250px;
+  width: 900px;
+  margin: auto;
+  box-shadow: 0px 0px 5px 1px rgb(0, 0, 0, 0.5);
+  padding: 30px;
+  padding-top: 70px;
+  padding-bottom: 70px;
+  background-color: white;
+}
+.table-produit tbody tr {
+  color: #4e586a;
+}
+
+.tabP.nav-tabs .nav-link {
+  border: none;
+  transition: border 0.3s ease-in;
+  color: #4e586a;
+}
+.tabP.nav-tabs a:hover,
+.tabP.nav-tabs .nav-link.active {
+  font-weight: bold !important;
+  border-bottom: 2px solid #4f38f7;
+}
+.monBtn {
+  color: rgb(255, 255, 255);
+  background-color: #4f38f7;
+  font-weight: bold !important;
+  border-radius: 0px !important;
+  padding: 8px;
+}
+.monBtnCat {
+  color: #4f38f7;
+  background-color: #eeecff;
+  font-weight: bold !important;
+  border-radius: 0px !important;
+  padding: 8px;
+  border-color: #eeecff;
+}
+
+.monBtnCat:hover {
+  background-color: #4f38f7;
+}
+.enEvidence {
+  color: #2abf54 !important;
+}
+.monHeader {
+  background-color: #ffffff !important;
+  border: none;
+}
+.maCard,
+.monTableau {
+  box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.08);
+}
+.delBtn {
+  background-color: #f20a62 !important;
+}
+.updateBtn {
+  border-color: #0dbe7a;
+  background-color: #0dbe7a !important;
+  color: white;
+}
+.youtube {
+  height: 32px;
+  min-width: 12px;
+  padding: 6px 10px;
+  border-radius: 16px;
+  display: inline-block;
+  white-space: nowrap;
+  box-sizing: border-box;
+  outline: none;
+  overflow: hidden;
+  cursor: pointer;
+  user-select: none;
+  position: relative;
+  background-color: rgba(128, 128, 128, 0.26);
+  border: 0.5px solid rgba(128, 128, 128, 0.26) ;
+  color: black;
+}
+
+.youtube:active,
+.youtube:focus,
+.youtube:hover {
+  background-color: #202626 !important;
+  color: white !important;
+  border: none;
+  outline: none;
+  box-shadow: 0 0 0 0.2rem #2221211a !important;
+}
+/* -------------------------------END HEAD TABS------------------ */

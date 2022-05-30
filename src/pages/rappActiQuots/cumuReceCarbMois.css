@@ -1,0 +1,57 @@
+/*.ficheCumuReceCarbMois {
+    max-width: 250px;
+    margin: auto;
+	background: #ffffff;
+    padding: 2em 2em 2em;
+	border-radius: 3px;
+	box-shadow: 2px 2px 10px rgba(0, 0, 0, .5)
+}*/
+.tableCumuReceCarbMois .dbl-border {
+    border-top: 3px double rgba(0, 0, 0, .5);
+}
+.center{
+    text-align: center;
+}
+.tableCumuReceCarbMois{
+    margin:auto;   
+   /* border: 3px double #000000; */
+}
+
+.tableCumuReceCarbMois .bord{
+    border-top: 3px double #000000;
+    border-bottom: 3px double #000000 ;
+}
+.tableCumuReceCarbMois .bordColor{
+    border: 1px double #e23b3b;
+}
+.tableCumuReceCarbMois .bord1{
+    border-top: 2px double #e23b3b;
+}
+
+.tableCumuReceCarbMois .cumuReceCarb th {
+  /*  border: 1px solid black; */
+    height: 5px;
+    font-size: 13px;
+}
+
+.tableCumuReceCarbMois .cumuReceCarb input
+{
+    border: none;
+    margin: 0px;
+    height: 31px;
+    background-color: rgba(255, 255, 255, 0);
+}
+
+.tableCumuReceCarbMois input:active
+{
+    outline: none;
+}
+.tableCumuReceCarbMois .color{
+    background-image: linear-gradient(
+       60deg
+        , #500101, #f15656 );
+   
+}
+.tableCumuReceCarbMois .titre{
+    color : #ffffff;
+}

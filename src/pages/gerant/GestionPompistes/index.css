@@ -1,0 +1,31 @@
+.mcard {
+  color: white !important;
+  height: 280px;
+  width: 200px;
+  border-radius: 15px;
+  overflow: hidden;
+}
+.mcardheur {
+  background-color: #0185ed !important;
+}
+.mcardheur .maHeader {
+  background-color: #0185ed !important;
+  border: none;
+}
+.mcardcarbur {
+  background-color: #68baa6 !important;
+}
+.mcardcarbur .maHeadercarbu {
+  background-color: #68baa6 !important;
+  border: none;
+}
+.infos-card {
+  border-left: 4px solid #0187edb0;
+  overflow: hidden;
+}
+.titre-card {
+  text-transform: uppercase;
+  color: white;
+  padding-top: 2px;
+  font-weight: bold;
+}

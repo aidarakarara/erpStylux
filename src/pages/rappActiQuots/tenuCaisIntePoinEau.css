@@ -1,0 +1,66 @@
+/*.ficheTenuCaisIntePoinEau {
+    max-width: 600px;
+    margin: auto;
+	background: #ffffff;
+    padding: 2em 2em 2em;
+	border-radius: 3px;
+	box-shadow: 2px 2px 10px rgba(0, 0, 0, .5)
+}*/
+.tableTenuCaisIntePoinEau{
+  /*  border: 3px double #000000; */
+    margin:auto;  
+}
+
+.tableTenuCaisIntePoinEau .bord{
+    border-top: 3px double #000000;
+    border-bottom: 3px double #000000 ;
+}
+.tableTenuCaisIntePoinEau .bordColor{
+    border: 1px double #3900A6;
+}
+.tableTenuCaisIntePoinEau .bord1{
+    border-top: 2px double #3900A6 ;
+}
+
+.tableTenuCaisIntePoinEau .width1 {
+    width: 40%;
+}   
+
+.center{
+    text-align: center;
+}
+.tableTenuCaisIntePoinEau .tenuCaisInte th {
+ /*   border: 1px solid black; */
+    height: 5px;
+    font-size: 13px;
+}
+
+.tableTenuCaisIntePoinEau  .tenuCaisInte input
+{
+    border: none;
+    margin: 0px;
+    height: 31px;
+    background-color: rgba(255, 255, 255, 0);
+}
+.tableTenuCaisIntePoinEau input:active
+{
+    outline: none;
+}
+
+.tableTenuCaisIntePoinEau .color{
+  /*    background-image: linear-gradient(
+          60deg
+       , rgb(255, 167, 38), rgb(251, 140, 0));  */
+       background-image: linear-gradient(
+        60deg
+       ,  #402662 , #5006da);
+      
+}
+
+.tableTenuCaisIntePoinEau .titre{
+    color : #ffffff;
+}
+
+.tableTenuCaisIntePoinEau  .tenuCaisInte .colorText{
+    color : red;
+}

@@ -1,0 +1,76 @@
+.caisse {
+    max-width: 1000px;
+    min-width: 700px;
+    margin: auto;
+    box-shadow: 0px 0px 5px 2px rgb(0, 0, 0, 0.5);
+    padding: 30px;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    background-color: white;
+}
+
+.caisse .entete-fiche {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.caisse .entete-fiche .info-stylux {
+    text-align: center;
+}
+
+.caisse .entete-fiche .info-stylux img {
+    width: 200px;
+    height: auto;
+}
+
+.caisse .entete-fiche .info-stylux div {
+    font-size: 10px;
+}
+
+.caisse .entete-fiche .info-jour {
+    max-width: 50%;
+    align-items: flex-end;
+    margin: 0px;
+}
+
+/* -------------------------------HEAD TABS------------------ */
+.caisse .nav-tabs .nav-link.active,
+.caisse .nav-tabs .nav-item.show .nav-link {
+    color: #ffffff;
+    background-color: #ed1c24;
+    border-bottom: 1px solid #ffffff;
+}
+
+.caisse .nav-tabs {
+    border-bottom: 1px solid #000000;
+}
+
+.caisse .nav-tabs .nav-link {
+    margin-bottom: -1px;
+    /* border: 1px solid transparent; */
+    border-top-left-radius: 0.25rem;
+    border-top-right-radius: 0.25rem;
+    margin-left: 2px;
+    margin-right: 2px;
+    border: 1px solid #000000;
+    border-bottom: none;
+    position: relative;
+}
+
+.caisse .nav-tabs a {
+    color: #000000;
+    text-decoration: none;
+    background-color: /* #271c1c54 */ #FF9C27;
+    transition: all 300ms, margin-top 0ms ease-in-out;
+}
+
+.caisse .nav-tabs a:hover {
+    color: #ffffff;
+    text-decoration: none;
+    background-color: #ed1c23c4;
+    padding: 8px 25px;
+    height: 49px;
+    margin-top: -5px;
+}
+/* -------------------------------END HEAD TABS------------------ */

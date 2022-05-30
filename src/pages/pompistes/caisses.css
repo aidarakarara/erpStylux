@@ -1,0 +1,9 @@
+.caisses
+{
+    max-width: 1000px;
+    margin: auto;
+}
+.caisses td, .caisses th
+{
+    text-align: center;
+}

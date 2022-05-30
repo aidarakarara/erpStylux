@@ -1,0 +1,168 @@
+
+/*-------------- TABLEAU INDEX -----------------------*/
+
+.caisse .index .sous-titre
+{
+    font-size: 13px;
+}
+.caisse .index .indexFerme
+{
+    padding: 0px !important;
+}
+.caisse .index tr td > b
+{
+    font-weight: 600;
+    font-size: 14px;
+}
+.caisse .index input
+{
+    border: none;
+    margin: 0px;
+    height: 32px;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0);
+}
+.caisse .index input:focus
+{
+    background-color: white;
+}
+/*-------------- END TABLEAU INDEX -----------------------*/
+
+/*-------------- SOMME SOUS SOMME -----------------------*/
+.caisse .index .sous-somme
+{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+.caisse .index .sous-somme > div
+{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.caisse .index .sous-somme > div:first-child
+{
+    padding-right: 20px;
+}
+.caisse .index .sous-somme > div:last-child
+{
+    padding-left: 20px;
+}
+.caisse .index .sous-somme div span:first-child
+{
+    text-decoration: underline;
+}
+.caisse .index .sous-somme div span:last-child
+{
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    width: 160px;
+    text-align: center;
+}
+.caisse .index .sous-somme b
+{
+    font-weight: 700;
+    font-size: 15px;
+}
+
+.caisse .index .somme
+{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+.caisse .index .somme > div
+{
+    width: 70%;
+    display: flex;
+    justify-content: space-between;
+}
+.caisse .index .somme div span:first-child
+{
+    text-decoration: underline;
+}
+.caisse .index .somme div span:last-child
+{
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    width: 250px;
+    text-align: center;
+}
+.caisse .index .somme b
+{
+    font-weight: 700;
+    font-size: 17px;
+}
+
+.caisse .tr-gasoil{
+    background-color: #Faa100 !important;
+}
+.caisse .tr-super{
+    background-color: #01934a !important;
+    color: white
+}
+/*-------------- END SOMME SOUS SOMME -----------------------*/
+
+/*-------------- BORDURE -----------------------*/
+.caisse .bordR
+{
+    border-right: 2px solid rgb(0, 0, 0, 0.8) !important;
+}
+.caisse .bordL
+{
+    border-left: 2px solid rgb(0, 0, 0, 0.8) !important;
+}
+.caisse .bordT
+{
+    border-top: 1.3px solid rgb(0, 0, 0, 0.8) !important;
+}
+.caisse .bordB
+{
+    border-bottom: 1.3px solid rgb(0, 0, 0, 0.8) !important;
+}
+.caisse .bordR2
+{
+    border-right: 1px solid rgba(0, 0, 0, 0.4) !important;
+}
+
+
+.caisse .tr-super .bordR
+{
+    border-right: 2px solid #01934a !important;
+}
+.caisse .tr-super .bordL
+{
+    border-left: 2px solid #01934a !important;
+}
+.caisse .tr-super .bordT
+{
+    border-top: 1.3px solid #01934a !important;
+}
+.caisse .tr-super .bordB
+{
+    border-bottom: 1.3px solid #01934a !important;
+}
+.caisse .tr-super .bordR2
+{
+    border-right: 1px solid #01934a !important;
+}
+
+.caisse .tr-gasoil .bordR
+{
+    border-right: 2px solid #Faa100 !important;
+}
+.caisse .tr-gasoil .bordL
+{
+    border-left: 2px solid #Faa100 !important;
+}
+.caisse .tr-gasoil .bordT
+{
+    border-top: 1.3px solid #Faa100 !important;
+}
+.caisse .tr-gasoil .bordB
+{
+    border-bottom: 1.3px solid #Faa100 !important;
+}
+.caisse .tr-gasoil .bordR2
+{
+    border-right: 1px solid #Faa100 !important;
+}

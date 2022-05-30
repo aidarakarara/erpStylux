@@ -1,0 +1,27 @@
+
+.indexDashbord .indexDashbord2 .container {
+    display: grid;
+
+    background: #ffffff;
+    margin-left: -1%;
+    padding: 1em 2em 1em 2em;
+    border-radius: 10px;
+    box-shadow: 2px 2px 15px rgba(0, 0, 0, .5) 
+ }
+
+ .indexDashbord .indexDashbord2 {
+    display: grid;
+    margin-left: 2%;
+    background: #ffffff;
+    padding: 1em 2em 1em 2em;
+    border-radius: 10px;
+    text-shadow: "Super"; 
+    box-shadow: 2px 2px 15px rgba(0, 0, 0, .5)
+ }
+
+
+
+
+
+
+  

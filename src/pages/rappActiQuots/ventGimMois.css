@@ -1,0 +1,53 @@
+/*.ficheVentGimMois {
+    max-width: 250px;
+    margin: auto;
+	background: #ffffff;
+    padding: 2em 2em 2em;
+	border-radius: 3px;
+	box-shadow: 2px 2px 10px rgba(0, 0, 0, .5)
+}
+*/
+.center{
+    text-align: center;
+}
+.tableVentGimMois{
+    margin:auto;   
+ /*   border: 3px double #000000; */
+}
+
+/*.tableVentGimMois .bord{
+    border : 3px double black;
+}*/
+
+.tableVentGimMois .bordColor{
+    border: 1px double #0f790d;
+}
+.tableVentGimMois .bord1{
+    border-top: 2px double #0f790d;
+}
+
+.tableVentGimMois .ventGim th {
+ /*   border: 1px solid black;  */
+    height: 5px;
+    font-size: 13px;
+}
+.tableVentGimMois .ventGim input
+{
+    border: none;
+    margin: 0px;
+    height: 31px;
+    background-color: rgba(255, 255, 255, 0);
+}
+.tableVentGimMois input:active
+{
+    outline: none;
+}
+
+.tableVentGimMois .color{
+    background-image: linear-gradient(
+        60deg
+        ,  #033302, #b7f312 );
+}
+.tableVentGimMois .titre{
+    color:#ffffff;
+}

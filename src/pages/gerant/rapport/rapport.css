@@ -1,0 +1,36 @@
+/**
+#41BB96 verte
+#FCD031 Orange
+#9BA0A1 Text-Color
+#EF835C Button
+#F8426F rouge
+*/
+.rapport {
+  color: #9ba0a1 !important;
+}
+.date-rapport {
+  margin-left: 2px;
+  padding: 6px;
+  border: 1.5px solid #f8426f;
+  border-radius: 20px;
+}
+.rappot-titre {
+  font-size: 20px;
+  text-transform: uppercase;
+}
+.chiffreAff {
+  font-weight: bold;
+  height: 300px;
+  background-image: linear-gradient(to right, #f84072, #fc564e);
+  color: white;
+}
+.carburantVend {
+  font-weight: bold;
+  height: 300px;
+  color: #9ba0a1;
+}
+.calendar {
+  border: none;
+}
+
+  

@@ -1,0 +1,46 @@
+/*.indexDashbord .indexDashbord1 {
+     max-width: 1508px; 
+     margin-left: 1%;
+     margin-top: "10px";
+     background: #ffffff;
+     padding: 1em 2em 1em 2em;
+     border-radius: 3px;
+     box-shadow: 2px 2px 15px rgba(0, 0, 0, .5)
+  
+  }
+.indexDashbord .indexDashbord1 .App { 
+    text-align: center;  
+  }
+*/
+/*****/
+.indexDashbord .indexDashbord2 .container {
+    display: grid;
+   /* width: 450px;
+    height: 240px; */
+    margin-top: -80px;
+    background: #ffffff;
+    margin-left: -1%;
+    padding: 1em 2em 1em 2em;
+    border-radius: 10px;
+    box-shadow: 2px 2px 15px rgba(0, 0, 0, .5) 
+ }
+
+ .indexDashbord .indexDashbord2 {
+    display: grid;
+    /*width: 510px;
+    height: 250px;*/
+    margin-top: 100px;
+    margin-left: 2%;
+    background: #ffffff;
+    padding: 1em 2em 1em 2em;
+    border-radius: 10px;
+    text-shadow: "Super"; 
+    box-shadow: 2px 2px 15px rgba(0, 0, 0, .5)
+ }
+/**********************/
+
+
+
+
+
+  

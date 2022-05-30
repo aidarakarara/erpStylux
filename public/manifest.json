@@ -1,0 +1,47 @@
+{
+  "short_name": "Stylux",
+  "name": "Gestion de Stylux Station",
+  "icons": [
+    {
+      "src": "/favicon/icons-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "/favicon/icons-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/favicon/icons-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/?source=pwa",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#3367D6",
+  "background_color": "#ffffff",
+  "shortcuts": [
+    {
+      "name": "votre Tableau de bord",
+      "short_name": "Tableau de bord",
+      "description": "Voir le tableau de board",
+      "url": "/?source=pwa",
+      "icons": [{ "src": "/favicon/bord-x192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "La Liste des pompistes",
+      "short_name": "Liste des pompistes",
+      "url": "/gerants/pompistes?source=pwa",
+      "icons": [{ "src": "/favicon/bord-x192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Les Caisse des pompiste",
+      "short_name": "Mes caisses",
+      "url": "/pompistes/caisses?source=pwa",
+      "icons": [{ "src": "/favicon/bord-x192.png", "sizes": "192x192" }]
+    }
+  ]
+}

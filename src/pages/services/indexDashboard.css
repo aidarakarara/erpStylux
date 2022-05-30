@@ -1,0 +1,42 @@
+
+
+
+
+/* -------------------------------HEAD TABS------------------ */
+.services .nav-tabs .nav-link.active,
+.services .nav-tabs .nav-item.show .nav-link {
+    color: #ffffff;
+    background-color: rgb(73, 165, 77);
+    border-bottom: 1px solid #ffffff;
+}
+
+.services .nav-tabs {
+    border-bottom: 1px solid #000000;
+}
+
+.services .nav-tabs .nav-link {
+    margin-bottom: -1px;
+    /* border: 1px solid transparent; */
+    border-top-left-radius: 0.25rem;
+    border-top-right-radius: 0.25rem;
+    margin-left: 2px;
+    margin-right: 2px;
+    border: 1px solid rgb(73, 165, 77);
+    border-bottom: none;
+    position: relative;
+}
+
+.services .nav-tabs a {
+    color: #000000;
+    text-decoration: none;
+    background-color: rgba(73, 165, 78, 0.328);
+    transition: all 300ms ease-in-out;
+}
+
+.services .nav-tabs a:hover {
+    color: #ffffff;
+    text-decoration: none;
+    background-color: rgba(73, 165, 78, 0.773);
+    padding: 8px 25px;
+}
+/* -------------------------------END HEAD TABS------------------ */

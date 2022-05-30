@@ -1,0 +1,76 @@
+/*.ficheTenuCaisRegiShel {
+    max-width: 500px;
+    margin: auto;
+	background: #ffffff;
+    padding: 2em 2em 2em;
+	border-radius: 3px;
+	box-shadow: 2px 2px 10px rgba(0, 0, 0, .5)
+}
+*/
+.center{
+    text-align: center;
+}
+.tableTenuCaisRegiShel{
+    margin:auto;   
+  /*  border: 3px double #000000;  */
+}
+.tableTenuCaisRegiShel .bord2 {
+    border-top: 3px double #000000;
+    border-bottom: 3px double #000000;
+} 
+
+.tableTenuCaisRegiShel .bordColor{
+    border: 1px double #39a39a;
+}
+.tableTenuCaisRegiShel .bord1{
+    border-top: 2px double #39a39a;
+}
+
+.tableTenuCaisRegiShel  .tenuCaisRegi th {
+   /* border: 1px solid black;  */
+    height: 5px;
+    font-size: 13px;
+}
+.tableTenuCaisRegiShel  .tenuCaisRegi input
+{
+    border: none;
+    margin: 0px;
+    height: 31px;
+    background-color: rgba(255, 255, 255, 0);
+}
+.tableTenuCaisRegiShel input:active
+{
+    outline: none;
+}
+
+/*.tableTenuCaisRegiShel .color{
+   background-image: linear-gradient(
+        60deg
+        ,  #f18aa2,#9F44D3);
+    }*/
+
+.tableTenuCaisRegiShel .color{
+    background-image: linear-gradient(
+        60deg
+        , #02413b, #16cebf , #02413b);
+    
+}
+.color2{
+    background-color: rgb(6, 201, 55);
+}
+
+
+.color1{
+    background-color: rgb(153, 193, 238);
+}
+.tableTenuCaisRegiShel .titre{
+    color : #ffffff;
+}
+
+.tableTenuCaisRegiShel  .tenuCaisRegi .colorText{
+    color : red;
+}
+
+
+
+

@@ -4,7 +4,7 @@ export default axios.create({
   //baseURL: "https://api-stylux.herokuapp.com/",
   baseURL: 
   process.env.NODE_ENV === "production"
-    ? "https://api-stylux2.herokuapp.com/"
+    ? "https://bd-stylux.herokuapp.com/"
     : "http://localhost:8000/",
 
   withCredentials: true,

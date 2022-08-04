@@ -11,7 +11,7 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { "d
 
 var _default = _axios["default"].create({
   // baseURL: "http://localhost:8000/",
-  baseURL: "https://api-stylux.herokuapp.com/",
+  baseURL: "https://api-stylux2.herokuapp.com/",
   withCredentials: true,
   headers: {
     Accept: "*/*",

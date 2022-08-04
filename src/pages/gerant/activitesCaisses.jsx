@@ -73,7 +73,7 @@ export default function ActivitesCaisses() {
       synthese.encaissements
         .map((item) => item?.bonclients_montant)
         .reduce((prev = 0, next = 0) => Number(prev) + Number(next), 0);
-    return total + montanttotal();
+    return total + montanttotalrecette();
   }
   useEffect(() => {
     loadData();
@@ -346,7 +346,7 @@ export default function ActivitesCaisses() {
                         </Link>
                       )}
                     </td>
-                    <td>{separateur(totalVersement())} FCFA </td>
+                    <td>{(totalVersement())} FCFA </td>
                     <td>
                       {synthese && synthese?.etat == 0 ? (
                         <button

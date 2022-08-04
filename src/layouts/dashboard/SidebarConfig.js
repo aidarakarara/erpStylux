@@ -33,11 +33,11 @@ const sidebarConfig = [
     path: "/gerants/TabDepenses",
     icon: getIcon(fileTextFill),
   },
-  {
+ /* {
     title: "Inventaires",
     path: "/gerants/Tableau",
     icon: getIcon(fileTextFill),
-  },
+  },*/
   /* {
     title: "Rapports",
     path: "/gerants/rapports",

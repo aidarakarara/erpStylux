@@ -18,7 +18,7 @@ const sidebarConfig = [
     path: "/pompistes/caisses",
     icon: getIcon(fileTextFill),
   },
-  {
+/*  {
     title: "Lubrifiants",
     path: "/pompistes/ListeLub",
     icon: <img src={bouteille} alt="" srcset="" />,
@@ -27,7 +27,7 @@ const sidebarConfig = [
     title: "Accessoires",
     path: "/pompistes/ListeAcc",
     icon: <img src={access} alt="" srcset="" />,
-  },
+  },*/
 ];
 
 export default sidebarConfig;

@@ -12,7 +12,7 @@ const sidebarConfig = [
     path: "/chefpistes/app",
     icon: <img src={dashbordIcon} alt="" srcSet="" />,
   },
-  {
+ /* {
     title: "Gestion des produits",
     path: "/chefpistes/gestionproduit",
     icon: getIcon(fileTextFill),
@@ -32,7 +32,7 @@ const sidebarConfig = [
     title: "Fiches Accessoires",
     path: "/chefpistes/Fiche-Acc",
     icon: getIcon(fileTextFill),
-  },
+  },*/
   /*  {
     title: "Fiches Lub/Acc",
     path: "/chefpistes/FicheLubAcc",

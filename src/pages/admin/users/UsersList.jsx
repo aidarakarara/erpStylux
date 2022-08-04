@@ -110,7 +110,7 @@ export default function UsersList() {
                     //  generer();
                   }}
                   className="form-control"
-                  placeholder="Nom complete"
+                  placeholder="Nom complet"
                   required
                 />
               </div>
